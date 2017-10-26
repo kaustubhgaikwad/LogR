@@ -1,7 +1,4 @@
-# LogR
-*Model Results*
-Accuracy=99.3333
+# LinearRegressionWS
+This is the content and code for the first lecture(linear regression) conducted by Community of coders VJTI in the machine learning (application oriented) series
 
-*Hyper Parameters*
-Epoch=6000  
-Learning Rate=1e-3
+The tutorial can be seen in the ipython notebook
